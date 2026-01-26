@@ -6,7 +6,7 @@ body {
 }
 
 .container {
-    background-color: #ffffff;
+    background-color: #f5faff;
     width: 400px;
     margin: 80px auto;
     padding: 30px;
@@ -28,7 +28,7 @@ h1 {
 }
 
 h2 {
-    color: #64748b;
+    color: #1e3a5f;
     font-size: 18px;
     margin-bottom: 15px;
 }
